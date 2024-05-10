@@ -1,3 +1,3 @@
-# mnist FNN Tensorflow
+# mnist FNN model
 
 A simple Feedforward Neural Network built on Tensorflow, to classify images from the popular dataset mnist.
