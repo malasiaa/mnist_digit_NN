@@ -28,7 +28,6 @@ This repository contains a simple TensorFlow implementation for classifying hand
 
 ## Usage
 
-1. Run the script:
   ```bash
   python mnist_classification.py
   ```
@@ -43,8 +42,5 @@ Evaluate the model's performance on the test dataset.
 Pick and visualize a single test image.
 Predict the digit value of the single test image.
 Save the trained model.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
