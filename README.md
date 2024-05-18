@@ -23,7 +23,7 @@ This repository contains a simple TensorFlow implementation for classifying hand
 
 2. Install the required dependencies:
   ```bash
-  Install the required dependencies:
+  pip install -r requirements.txt
   ```
 
 ## Usage
