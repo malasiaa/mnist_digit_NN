@@ -31,16 +31,13 @@ This repository contains a simple TensorFlow implementation for classifying hand
   ```bash
   python mnist_classification.py
   ```
-This script will:
+## Project Structure
 
-Load the MNIST dataset.
-Visualize the first image in the training set.
-Preprocess the data.
-Define and compile the neural network model.
-Train the model.
-Evaluate the model's performance on the test dataset.
-Pick and visualize a single test image.
-Predict the digit value of the single test image.
-Save the trained model.
+1. **Load and Preprocess Data**
+2. **Build and Train Model**
+3. **Evaluate and Predict**
+4. **Save Model**
+
+
 
 
