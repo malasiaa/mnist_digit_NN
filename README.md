@@ -1,4 +1,4 @@
-# TensorFlow MNIST Digits Classification
+# MNIST Digits Classification
 
 This repository contains a simple TensorFlow implementation for classifying handwritten digits from the MNIST dataset.
 
