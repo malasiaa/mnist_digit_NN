@@ -66,7 +66,7 @@ termcolor==2.4.0
 tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
-urllib3==2.2.1
+urllib3==2.2.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 Werkzeug==3.0.3
 wrapt==1.16.0
