@@ -68,6 +68,6 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_17135351
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
 urllib3==2.2.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 wrapt==1.16.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
