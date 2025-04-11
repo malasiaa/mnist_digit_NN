@@ -24,7 +24,7 @@ ipython @ file:///D:/bld/ipython_1715263443743/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1710255804825/work
 jupyter_core @ file:///D:/bld/jupyter_core_1710257313664/work
-keras==3.3.3
+keras==3.9.0
 kiwisolver==1.4.5
 libclang==18.1.1
 Markdown==3.6
