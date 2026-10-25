@@ -42,7 +42,7 @@ optree==0.11.0
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-pillow==10.3.0
+pillow==13.0.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1713912794367/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1702399386289/work
 protobuf==4.25.3
